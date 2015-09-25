@@ -1,0 +1,21 @@
+= Grails 3 with AngularJS 2
+
+NOTE: This application is a proof of concept and a work in progress.
+
+A few things to keep in mind:
+
+1. The TypeScript compilation works but right now is still slow (I'll be working to improve this).
+2. Angular2 is currently in alpha and is a moving target and things might not work as expected.
+
+== The Application
+
+This is a simple hello world application written in Angular2. It should provide a nice starting point for experimentation.
+
+Take a look at `grails-app/assets/typescript/app.ts` and `grails-app/views/index.gsp`.
+
+== The Tools
+
+This application makes use of the following projects:
+
+* https://github.com/craigburke/bower-installer-gradle[Bower Installer Gradle] (for client side dependencies)
+* https://github.com/craigburke/typescript-asset-pipeline[TypeScript Asset Pipeline]
