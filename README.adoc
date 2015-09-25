@@ -1,4 +1,4 @@
-= Grails 3 with AngularJS 2
+= Grails 3 / AngularJS 2
 
 NOTE: This application is a proof of concept and a work in progress.
 
