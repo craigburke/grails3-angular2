@@ -15,7 +15,7 @@ import {
 class HelloWorld {
     name:string;
     constructor() {
-        this.name = 'Craig';
+        this.name = 'World!';
     }
 }
 
