@@ -4,7 +4,7 @@ NOTE: This application is a proof of concept and a work in progress.
 
 A few things to keep in mind:
 
-1. The TypeScript compilation works but right now is still slow (I'll be working to improve this).
+1. The TypeScript compilation works but is still slow (I'll be working to improve this).
 2. Angular2 is currently in alpha and is a moving target and things might not work as expected.
 
 == The Application
